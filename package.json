@@ -80619,7 +80619,7 @@
   "marked": "^0.7.0",
   "merge-deep": "^3.0.2",
   "mime-types": "^2.1.24",
-  "minimatch": "^3.0.4",
+  "minimatch": "^3.0.5",
   "moment": "^2.24.0",
   "moment-timezone": "^0.5.26",
   "mssql": "^4.3.7",
